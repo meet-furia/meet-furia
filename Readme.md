@@ -1,5 +1,5 @@
 ## 💫 About Me:
-Proficient full-stack professional with a Master’s in Computer Science and a PG Diploma in Software Development. Skilled in frontend (React, HTML5, CSS3, JavaScript, Redux) and diverse backend (Java, Spring, Spring Boot, Hibernate, various Spring modules) technologies, backed by robust database skills in MySQL and MongoDB. Actively enhanced these proficiencies during a pivotal internship at Connexions Data Inc, contributing to backend scalability and optimized software performance.
+Proficient full-stack professional with a Master’s in Computer Science from Liverpool John Moores University and a PG Diploma in Software Development from IIIT Bangalore. Skilled in frontend (React, HTML5, CSS3, JavaScript, Redux) and diverse backend (Java, Spring, Spring Boot, Hibernate, various Spring modules) technologies, backed by robust database skills in MySQL and MongoDB. Actively enhanced these proficiencies during a pivotal internship at Connexions Data Inc, contributing to backend scalability and optimized software performance.
 
 
 ## 🌐 Socials & Leetcode:
