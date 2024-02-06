@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full-stack developer with expertise in frontend and backend technologies.<br>Currently honing my skills in React and Java Spring Boot. I am looking to collaborate with<br>Developers proficient in React and Java Spring Boot for interesting projects or open-source contributions. Ask me about<br>Anything related to frontend development with React or backend development with Java Spring.
+Proficient full-stack professional with a Master’s in Computer Science and a PG Diploma in Software Development. Skilled in frontend (React, HTML5, CSS3, JavaScript, Redux) and diverse backend (Java, Spring, Spring Boot, Hibernate, various Spring modules) technologies, backed by robust database skills in MySQL and MongoDB. Actively enhanced these proficiencies during a pivotal internship at Connexions Data Inc, contributing to backend scalability and optimized software performance.
 
 
 ## 🌐 Socials:
