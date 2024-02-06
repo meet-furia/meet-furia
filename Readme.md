@@ -2,7 +2,7 @@
 Proficient full-stack professional with a Master’s in Computer Science and a PG Diploma in Software Development. Skilled in frontend (React, HTML5, CSS3, JavaScript, Redux) and diverse backend (Java, Spring, Spring Boot, Hibernate, various Spring modules) technologies, backed by robust database skills in MySQL and MongoDB. Actively enhanced these proficiencies during a pivotal internship at Connexions Data Inc, contributing to backend scalability and optimized software performance.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meet-furia/) 
 
 # 💻 Tech Stack:
